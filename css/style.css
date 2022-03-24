@@ -557,7 +557,7 @@ a {
   padding-top: var(--global-padding);
   padding-bottom: var(--global-padding);
   background-color: #333;
-  background-image: url("/images/Stats.jpg");
+  background-image: url("../images/Stats.jpg");
   background-size: cover;
   position: relative;
 }
@@ -765,7 +765,7 @@ a {
 .quote {
   padding-top: var(--global-padding);
   padding-bottom: var(--global-padding);
-  background-image: url("/images/Quote.jpg");
+  background-image: url("../images/Quote.jpg");
   background-size: cover;
   color: white;
   text-align: center;
@@ -911,7 +911,7 @@ a {
 .subscribe {
   padding-top: var(--global-padding);
   padding-bottom: var(--global-padding);
-  background-image: url("/images/subscribe.png");
+  background-image: url("../images/subscribe.jpg");
   background-size: cover;
   color: white;
   position: relative;
@@ -1089,7 +1089,7 @@ a {
 .footer {
   padding-top: calc(var(--global-padding) / 2);
   padding-bottom: calc(var(--global-padding) / 2);
-  background-image: url("/images/footer.jpg");
+  background-image: url("../images/footer.jpg");
   background-size: cover;
   color: white;
   text-align: center;
